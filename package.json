@@ -1,0 +1,29 @@
+{
+  "name": "_lodashPractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || truenpm ",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idominikbrame/_lodashPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idominikbrame/_lodashPractice/issues"
+  },
+  "homepage": "https://github.com/idominikbrame/_lodashPractice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "nodemon": "^2.0.7"
+  }
+}

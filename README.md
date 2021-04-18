@@ -1,2 +1,0 @@
-# _lodashPractice
-_lodash
